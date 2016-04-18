@@ -1,0 +1,27 @@
+{
+  "name": "maxime-french-bot",
+  "version": "0.0.1",
+  "description": "A Messenger chatbot that echoes the user's message in French",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "body-parser": "1.15.0",
+    "request": "2.72.0"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willhou/maxime"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "Apache-2.0"
+}

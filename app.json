@@ -1,0 +1,8 @@
+{
+  "name": "Maxime the French bot",
+  "description": "A Messenger chatbot that echoes the user's message in French",
+  "repository": "https://github.com/willhou/maxime",
+  "logo": "https://scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/c0.0.320.320/p320x320/12994551_714296358673758_2147659831920560946_n.jpg?oh=12755a7c7de474e4b917611a4e90bf94&oe=57B86D97",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
